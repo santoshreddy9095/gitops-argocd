@@ -16,7 +16,7 @@ spec:
         app: solar-system
     spec:
       containers:
-      - image: santureddy/simpleapp:11
+      - image: santureddy/simpleapp:13
         name: solar-system
         ports: 
         - containerPort: 80
